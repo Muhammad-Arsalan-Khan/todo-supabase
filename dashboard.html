@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="dashboard.css">
+  </head>
+  <body onload="authCheck(); getAll()">
+    <div class="main-container">
+      <h1>TO DO LIST</h1>
+      <div class="container">
+        <div class="add-input">
+          <input id="input" type="text" placeholder="ADD THE TASK" id="input" />
+          <button id="addtask" onclick="add()">ADD</button>
+        </div>
+        <div class="list-container" id="task-container">
+          <!-- <ul>
+              <li>arasalan <span>📝</span><i>🗑️</i></li>
+            </ul> -->
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="dashboard.js"></script>
+  </body>
+</html>
