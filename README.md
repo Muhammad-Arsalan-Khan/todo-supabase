@@ -21,6 +21,7 @@ This project is a task management web application that includes **user authentic
 
 ## Supabase Issue: Project Paused
 Please note, the project is currently **paused** due to inactivity for over 90 days. As a result, the project and data are not accessible through the Supabase dashboard, but the **data is still intact** and can be restored from a backup.
+<img width="716" height="453" alt="image" src="https://github.com/user-attachments/assets/d3ebe31d-09e8-4c4c-824e-bc23e2efee02" />
 
 ### Reason for Pause
 Supabase automatically pauses projects that remain inactive for **90 days** or more. If you wish to restore the project, you will need to:
@@ -39,4 +40,4 @@ For more details, follow these steps:
 First, clone this repository to your local machine:
 
 ```bash
-git clone <repo-url>
+https://github.com/Muhammad-Arsalan-Khan/todo-supabase.git
