@@ -40,4 +40,4 @@ For more details, follow these steps:
 First, clone this repository to your local machine:
 
 ```bash
-https://github.com/Muhammad-Arsalan-Khan/todo-supabase.git
+https://github.com/Muhammad-Arsalan-Khan/todo-supabase-Auth.git
