@@ -26,7 +26,7 @@ Please note, the project is currently **paused** due to inactivity for over 90 d
 ### Reason for Pause
 Supabase automatically pauses projects that remain inactive for **90 days** or more. If you wish to restore the project, you will need to:
 1. Download the backups of the project data.
-2. Restore the backup to a **new Supabase project**.
+2. Restore the backup to a **new Supabase project**..
 
 For more details, follow these steps:
 - [Restore Backup to a New Supabase Project](https://supabase.com/docs/guides/database/backups#restore-a-backup)
